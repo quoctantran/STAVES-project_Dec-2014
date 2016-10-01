@@ -6,8 +6,8 @@ import os
 outputFileName = 'Bach_13.txt'
 
 # Define path to input and output files 
-inputPath = '/Users/minhngo/Desktop/firstFeatExt/Bach/13'
-outputPath = '/Users/minhngo/Desktop/firstFeatExt/Bach/13'
+inputPath = '/Users/quoctan/Desktop/firstFeatExt/Bach/13'
+outputPath = '/Users/quoctan/Desktop/firstFeatExt/Bach/13'
 
 # Convert forward/backward slashes
 inputPath = os.path.normpath(inputPath)
