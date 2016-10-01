@@ -13,7 +13,7 @@ import sys
 ##	print "There are " + str(x) + " files in this directory"
 #	return x
 #		
-#count_em("/Users/minhngo/Desktop/Dataset/Music/")
+#count_em("/Users/quoctan/Desktop/Dataset/Music/")
 
 def main():
 	if len(sys.argv) - 1:
@@ -30,7 +30,7 @@ def engine(path):
 	print 'Files =', files
 
 if __name__ == '__main__':
-#	engine("/Users/minhngo/Desktop/Music/CHEVRONV")
+#	engine("/Users/quoctan/Desktop/Music/CHEVRONV")
 	main()
 	
 ## need more lines of code for loading the ./a.out to execute the extraction
