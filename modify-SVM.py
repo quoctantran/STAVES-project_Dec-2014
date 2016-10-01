@@ -7,8 +7,8 @@ import re
 #outputFileName = 'amin-svm.txt'
 
 # Define path to input and output files 
-inputPath = '/Users/minhngo/Desktop/Collection'
-outputPath = '/Users/minhngo/Desktop/Collection'
+inputPath = '/Users/quoctan/Desktop/Collection'
+outputPath = '/Users/quoctan/Desktop/Collection'
 
 # Convert forward/backward slashes
 inputPath = os.path.normpath(inputPath)
