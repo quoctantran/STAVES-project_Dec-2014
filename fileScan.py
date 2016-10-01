@@ -2,7 +2,7 @@ import glob
 import os, os.path
 import sys
 import subprocess
-#os.chdir("/Users/minhngo/Desktop/Test/")
+#os.chdir("/Users/quoctan/Desktop/Test/")
 #for file in glob.glob("*.jpg"):
 #	print (file)
 
