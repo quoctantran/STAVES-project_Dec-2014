@@ -1,1 +1,1 @@
-# STAVES-project_Jun-2013-
+# STAVES-project: programming course 2011
