@@ -1,1 +1,3 @@
-# STAVES-project: programming course 2011
+# STAVES-project
+
+(Segmentation, symbol recognition and classification for printed and hand written music scores)
